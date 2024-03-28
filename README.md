@@ -8,4 +8,9 @@ Refer to the below table for paths and responses,
 | GET    | /about | Will send the text <i>`About Page`</i> as response |
 
 
-**Do not modify the code in `MyApplication.java`**
+TEST CASE RESULTS
+The Spring Boot application should consist of a controller class.
+The GET request with path '/' should return a success status.
+An HTTP GET request with path '/' should return the string 'Home Page' as a response.
+The GET request with path '/about' should return a success status.
+An HTTP GET request with path '/about' should return the string 'About Page' as a response.
